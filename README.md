@@ -1,4 +1,4 @@
-# Powerbi-shopnest-dashboard
+
 Power BI dashboard project analysing shopnest sales and business performance
 # 🛍️ Shopnest Store – Power BI Dashboard
 
